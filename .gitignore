@@ -1,0 +1,26 @@
+# Ignore virtual environment folders
+venv/
+.env/
+.venv/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore logs and environment files
+*.log
+.env
+
+# Ignore dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
